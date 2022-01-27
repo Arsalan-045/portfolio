@@ -534,6 +534,10 @@ p{
 /* for header section */
 @media only screen and (max-width: 805px)
 {
+    .col-2{
+        padding-left: 0%;
+    }
+    
     .header{
         height: 100%;
     }
