@@ -573,7 +573,7 @@ p{
     }
 
     #info{
-        margin: 70px 0px 0px 0px;
+        margin: 0px 0px 0px 0px;
         align-items: center;
         text-align: center;
         padding: 0px 0px 0px 0px;
@@ -582,12 +582,12 @@ p{
     .col-2 img{
         flex-basis: 100%;
         padding: 0px 0px 0px 0px;
-        margin: -2px 0px 0px 0px;
+        margin: -2px 0px 0px 35px;
     }
 
     h1{
         font-size: 25px;
-        margin-top: 77px;
+        margin-top: 35px;
     }
 
     p{
@@ -611,7 +611,7 @@ p{
         display: block;
         flex-basis: 100%;
         align-items: center;
-        margin: 75px 0px 0px 0px;
+        margin: 20px 0px 0px 0px;
         padding: 4px 25px 0px 25px;
     }
 
@@ -626,11 +626,12 @@ p{
 
     #img2{
         display: block;
-        width: 94vw;
+        width: 84vw;
         padding: 0px;
         flex-basis: 100%;
         /* padding:0 25% 0 25%; */
-        height: 77vh;
+        height: 61vh;
+        margin-left: 20px;
         
     }
     .imp{
